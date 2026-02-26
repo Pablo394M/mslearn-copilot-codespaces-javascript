@@ -74,3 +74,28 @@ The prompts uses `@workspace` which is a special feature of GitHub Copilot chat 
 Your site should already be running in your Codespace, and the change will reload onto the page automatically. To see them, hover over one of your social media icons in the footer to see the magic!
 
 Congratulations, through the exercise, you have use GitHub Copilot to generate code and also done it in an interactive and fun way! You can use GitHub Copilot to not only generate code, but write documentation, test your applications and more.
+
+
+### copilot chat y console sesion
+
+✅ Animation added for social icons
+
+The img.socialIcon class now includes a smooth transition and a playful pop‑bounce animation on hover, along with a subtle drop shadow to make the icons feel more interactive.
+
+What changed
+Added transition to the base icon style.
+Defined a :hover rule that triggers the pop animation and a shadow.
+Created @keyframes pop for the bounce/rotate effect.
+💡 Feel free to tweak the scale, rotate, duration, or shadow to suit your design!
+
+You can now hover over any social icon in the footer and watch it come alive. Enjoy! 🎉
+
+
+It sounds like you closed the Simple Browser preview (or whatever live‑preview pane you were using).
+
+You can get it back with one of the following:
+
+Command palette – press Ctrl+Shift+P (Windows/Linux) or ⌘+Shift+P (macOS) and type “Simple Browser: Show” then enter.
+Right‑click the file (e.g. index.html) in the explorer and choose “Open with Live Preview” (if the Live Preview extension is installed) or “Open with > Simple Browser”.
+If you’ve previously opened a URL, press Ctrl+Shift+P and run “Simple Browser: Focus” to jump back to the existing tab.
+These will reopen the preview pane so you can see your app again.
